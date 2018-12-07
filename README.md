@@ -2,12 +2,6 @@
 A random collection of some of the interesting machine learning articles/tutorials/things i found around the web. 
 
 
-
-
-Fake news detection
-https://towardsdatascience.com/i-trained-fake-news-detection-ai-with-95-accuracy-and-almost-went-crazy-d10589aa57c
-
-
 GENERAL
 - [Sana Labs](https://www.sanalabs.com/)
 - [Machine learning pipeline](https://spandan-madan.github.io/DeepLearningProject/)
@@ -18,6 +12,7 @@ GENERAL
 - [TensorFlow wide_n_deep_tutorial.py](https://github.com/tensorflow/tensorflow/blob/r1.2/tensorflow/examples/learn/wide_n_deep_tutorial.py)
 - [Deep Learning with Neural Networks and TensorFlow](https://www.youtube.com/watch?v=JeamFbHhmDo)
 - [Notes from Coursera Deep Learning courses by Andrew Ng](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng)
+- [State of the art AI](https://www.stateoftheart.ai)
 
 
 RECOMMENDATIONS
@@ -42,6 +37,10 @@ TEXT-TO_SPEECH
 - [DeepMind's Tacotron-2 Tensorflow implementation](https://github.com/Rayhane-mamah/Tacotron-2)
 - [A TensorFlow Implementation of Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model](https://github.com/Kyubyong/tacotron)
 - [Tacotron-2 research paper](https://arxiv.org/pdf/1712.05884.pdf)
+
+
+NATURAL LANGUAGE PROCESSING
+- [Fake news detection](https://towardsdatascience.com/i-trained-fake-news-detection-ai-with-95-accuracy-and-almost-went-crazy-d10589aa57c)
 
 
 AUDIO
