@@ -31,7 +31,9 @@ RECOMMENDATIONS
 - [Recommending music on Spotify with deep learning](http://benanne.github.io/2014/08/05/spotify-cnns.html)
 - [Learning to understand music from Shazam](https://blog.shazam.com/learning-to-understand-music-from-shazam-56a60788b62f)
 - [Deep Neural Networks for YouTube Recommendations](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)
-
+- [Hotel Recommendation engine] (https://towardsdatascience.com/a-machine-learning-approach-building-a-hotel-recommendation-engine-6812bfd53f50)
+- [Tensorflow recommendations] (https://towardsdatascience.com/how-to-build-a-collaborative-filtering-model-for-personalized-recommendations-using-tensorflow-and-b9a77dc1320)
+- 
 
 TEXT-TO_SPEECH
 - [DeepMind's Tacotron-2 Tensorflow implementation](https://github.com/Rayhane-mamah/Tacotron-2)
