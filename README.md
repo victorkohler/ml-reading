@@ -34,10 +34,17 @@ RECOMMENDATIONS
 - [Hotel Recommendation engine](https://towardsdatascience.com/a-machine-learning-approach-building-a-hotel-recommendation-engine-6812bfd53f50)
 - [Tensorflow recommendations](https://towardsdatascience.com/how-to-build-a-collaborative-filtering-model-for-personalized-recommendations-using-tensorflow-and-b9a77dc1320)
 
+
 TEXT-TO_SPEECH
 - [DeepMind's Tacotron-2 Tensorflow implementation](https://github.com/Rayhane-mamah/Tacotron-2)
 - [A TensorFlow Implementation of Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model](https://github.com/Kyubyong/tacotron)
 - [Tacotron-2 research paper](https://arxiv.org/pdf/1712.05884.pdf)
+
+
+GAN
+- [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/pdf/1812.04948.pdf)
+- [AI Creates Realistic Photos of People](http://www.openculture.com/2018/12/artificial-intelligence-creates-realistic-photos-of-people-none-of-whom-actually-exist.html)
+
 
 
 NATURAL LANGUAGE PROCESSING
